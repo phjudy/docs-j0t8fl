@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-gihl65.date-me.pro/sitemap.xml
